@@ -1,4 +1,4 @@
-# Hi, I'm Hussein! 👋 ![Cold War](https://www.codewars.com/users/oyelajakenny/badges/large)
+# Hi, I'm Hussein! 👋 ![Cold War](https://www.codewars.com/users/oyelajakenny/badges/micro)
 
 
 
