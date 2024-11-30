@@ -1,4 +1,6 @@
-# Hi, I'm Hussein! 👋 (https://www.codewars.com/users/oyelajakenny/badges/large)
+# Hi, I'm Hussein! 👋
+
+https://www.codewars.com/users/oyelajakenny/badges/large
 
 I am a website designer and a Frontend Developer currently immersing myself in JavaScript FullStact Website Development Course with HackYourFuture Denmark.
 
