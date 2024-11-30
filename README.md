@@ -4,7 +4,7 @@ https://www.codewars.com/users/oyelajakenny/badges/large
 
 I am a website designer and a Frontend Developer currently immersing myself in JavaScript FullStact Website Development Course with HackYourFuture Denmark.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<oyelajakenny>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=oyelajakenny&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Frontend Libraries/Frameworks
 ## Tech Stack
